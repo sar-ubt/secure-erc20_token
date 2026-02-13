@@ -19,6 +19,8 @@ Foundry<br>
 ## Verified Contract
 ```https://sepolia.etherscan.io/address/0xdbd4f037f3fEDC5757367b32B52d4d0185CE2c41#code```<br>
 
+# The contract is verified on sepolia Etherscan. Anyone can<br>interact with it using the Read Contract and Write Contract<br>tabs by connecting their wallet.
+
 <hr>
 
 ## Foundry
