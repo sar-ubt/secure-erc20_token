@@ -1,3 +1,26 @@
+# Secure ERC20 Token (OpenZeppelin based)
+
+# Features
+ERC20 Standard<br>
+Mintable (onlyOwner)<br>
+Burnable<br>
+Pausable<br>
+Custom Initial Supply<br>
+Ownership Transfer<br>
+Fully Tested (Foundry)<br>
+
+## Tech Stack
+Solidity 0.8.x<br>
+OpenZeppelin<br>
+Foundry<br>
+
+## Deployment
+```Contract Address: 0xdbd4f037f3fEDC5757367b32B52d4d0185CE2c41```<br>
+## Verified Contract
+```https://sepolia.etherscan.io/address/0xdbd4f037f3fEDC5757367b32B52d4d0185CE2c41#code```<br>
+
+<hr>
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
